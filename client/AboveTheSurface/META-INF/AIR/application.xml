@@ -6,8 +6,8 @@
   <initialWindow>
     <content>WebMain.swf</content>
     <visible>true</visible>
-    <maximizable>false</maximizable>
-    <minimizable>false</minimizable>
+    <maximizable>true</maximizable>
+    <minimizable>true</minimizable>
     <renderMode>gpu</renderMode>
     <softKeyboardBehavior>pan</softKeyboardBehavior>
   </initialWindow>
