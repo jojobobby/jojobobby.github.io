@@ -1,2 +1,2 @@
-What you see here contains all necessary data to run my c# multiplayer server. 
-This data is fetched by my client.
+Data that's being hosted so my clients can fetch when necessary.
+Everything shown is for a C# .NET / AS3 private repository. 
